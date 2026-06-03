@@ -1,5 +1,4 @@
-**Devbhumi Restaurant Revenue & Operational Efficiency Analytics**
-
+Devbhumi Delicacies Restaurant Performance & Economics Analytics
 
 ## 📊 Project Overview
 This project features a 2-page, high-contrast executive Power BI dashboard built to analyze sales velocity, unit economics, and supply chain/operational turnaround times for a multi-location restaurant brand. 
