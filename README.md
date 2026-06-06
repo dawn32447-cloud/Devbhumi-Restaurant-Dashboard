@@ -35,4 +35,4 @@ This view tracks kitchen fulfillment velocity vs. customer ratings to flag quali
 ## 🧠 Sample DAX Measures Showcased
 
 ```dax
-Total Net Profit = SUM('Sheet1'[Net_Profit])
+Total Net Profit = SUM('Table1'[Net_Profit])
